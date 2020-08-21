@@ -2,13 +2,11 @@
 
 A multithread program that takes desktop screenshots in background and send them to the Dropbox server.
 
-Program of webinar
+# Program of webinar
 
-Exception Handling.
-
-Threads and Processes.
-
-Starting and stopping streams.
+- Exception Handling.
+- Threads and Processes.
+- Starting and stopping streams.
 
 Connecting external libraries.
 
