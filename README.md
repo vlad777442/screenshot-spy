@@ -1,5 +1,5 @@
-# screenshot-spy-dropbox
-Java Intensive Webinar (2020-08-10)
+# Java Intensive Webinar (2020-08-10)
+
 A multithread program that takes desktop screenshots in background and send them to the Dropbox server.
 
 Program of webinar
