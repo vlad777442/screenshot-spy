@@ -7,7 +7,5 @@ A multithread program that takes desktop screenshots in background and send them
 - Exception Handling.
 - Threads and Processes.
 - Starting and stopping streams.
-
-Connecting external libraries.
-
-Sending files to a remote server.
+- Connecting external libraries.
+- Sending files to a remote server.
